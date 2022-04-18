@@ -14,5 +14,5 @@ int main (){
         total = total + x ;
          
     }
-    cout << total << endl;
+    cout << "Total = "  << total << endl;
 }
